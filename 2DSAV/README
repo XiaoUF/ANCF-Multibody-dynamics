@@ -1,5 +1,6 @@
 GSL library required, to compile the solver, change the include and library path in Make/options
 Compatible with OpenFAOM-3.0+
 TODO list:
-read input to setup the vegetation array
-encapsulate memory management
+1. read input to setup the vegetation array
+2. encapsulate memory management
+3. Efficient parallel interpolation scheme from Eulerian framwork to Lagrangian framework
